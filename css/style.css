@@ -65,6 +65,9 @@ section {
     padding: 50px;
 }
 
+nav {
+    display: flex;
+}
 
 /********* HOMEPAGE *********/
 
